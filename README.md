@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 
 
 <br/>
