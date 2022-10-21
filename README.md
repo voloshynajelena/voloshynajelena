@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**voloshynajelena/voloshynajelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 * From Ukraine
@@ -41,4 +39,6 @@
 
 <br/>
 
+<!--
+**voloshynajelena/voloshynajelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
